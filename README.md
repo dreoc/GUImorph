@@ -1,2 +1,2 @@
-# GUImorph
-Graphical User Interface to R functions to conduct 3D GM
+# GUImorph, a Graphical User Interface to R functions to conduct 3D GM
+GUImorph, A User-Friendly R Package with a Graphical User Interface to Digitize & Conduct Geometric Morphometric Analyses of 2D and 3D: Landmark-based Geometric Morphometrics (GM) is a prominent approach used to quantify shape variation and its covariation with other variables. We developed GUImorph, the first user-friendly R package featuring a Graphical User Interface (GUI) to (i) digitize 2D landmarks and sliding semi-landmarks, as well as 3D landmarks and sliding curve and surface semi-landmarks and (ii) conduct 2D and 3D GM analyses on landmarks and sliding curve and surface semi-landmarks. GUImorph is easy to use and provides needed tools for paleoanthropologists interested in quantifying the complete shape variation of objects, and in evaluating hypotheses regarding shape co-variation with other variables of interest.
